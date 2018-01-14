@@ -11,6 +11,16 @@ Things you may want to cover:
 
 * Configuration
 
+```
+rails webpacker:install
+rails webpacker:install:react
+
+rails s
+webpack-dev-server
+
+
+```
+
 * Database creation
 
 * Database initialization
